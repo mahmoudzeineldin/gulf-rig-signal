@@ -1,0 +1,7 @@
+ticker,name,exposure_tests,event_study,note
+SLB,SLB (Schlumberger),yes,yes,Reports a Middle East & Asia area
+HAL,Halliburton,yes,yes,Reports a Middle East/Asia region
+NESR,National Energy Services Reunited,yes,yes,MENA pure play. Check the price history for gaps in 2024.
+RES,RPC Inc,yes,no,US-focused. Used as the low-exposure name.
+WFRD,Weatherford International,no,yes,Relisted June 2021. Add rows to segment_revenue.csv to bring it into the exposure tests.
+BKR,Baker Hughes,no,yes,Current listing starts July 2017. Add rows to segment_revenue.csv to bring it into the exposure tests.

@@ -1,0 +1,9 @@
+# downloaded data is rebuilt by src/get_data.py, not committed
+data/raw/
+data/fake_raw/
+results_fake/
+results/tables/panel.csv
+__pycache__/
+*.pyc
+.DS_Store
+.venv/

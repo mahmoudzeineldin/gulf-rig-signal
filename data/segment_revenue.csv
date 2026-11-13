@@ -1,0 +1,42 @@
+ticker,fiscal_year,me_revenue_musd,total_revenue_musd,basis,reported_in,segment_label,source_url,note
+HAL,2005,1383,7998,HAL-ESG,2006,Middle East/Asia,https://www.sec.gov/Archives/edgar/data/0000045012/000004501207000072/ed10k2006_final.htm,Energy Services Group only. KBR was still part of Halliburton then and is left out of the total.
+HAL,2006,1689,10100,HAL-ESG,2006,Middle East/Asia,https://www.sec.gov/Archives/edgar/data/0000045012/000004501207000072/ed10k2006_final.htm,Energy Services Group only. KBR was still part of Halliburton then and is left out of the total.
+HAL,2008,3168,18279,HAL-regions,2010,Middle East/Asia,https://ir.halliburton.com/node/22931/html,FY2010 10-K results of operations tables
+HAL,2009,2884,14675,HAL-regions,2010,Middle East/Asia,https://ir.halliburton.com/node/22931/html,FY2010 10-K results of operations tables
+HAL,2010,3003,17973,HAL-regions,2010,Middle East/Asia,https://ir.halliburton.com/node/22931/html,FY2010 10-K results of operations tables
+HAL,2011,3478,24829,HAL-regions,2013,Middle East/Asia,https://www.sec.gov/Archives/edgar/data/45012/000004501214000069/hal-12312013x10k.htm,FY2013 10-K results of operations tables
+HAL,2012,4295,28503,HAL-regions,2013,Middle East/Asia,https://www.sec.gov/Archives/edgar/data/45012/000004501214000069/hal-12312013x10k.htm,FY2013 10-K results of operations tables
+HAL,2013,5056,29402,HAL-regions,2013,Middle East/Asia,https://www.sec.gov/Archives/edgar/data/45012/000004501214000069/hal-12312013x10k.htm,FY2013 10-K. Same figure appears in the FY2015 10-K.
+HAL,2014,5807,32870,HAL-regions,2015,Middle East/Asia,https://sec.gov/Archives/edgar/data/45012/000004501216000272/hal_12312015-10k.htm,FY2015 10-K results of operations tables
+HAL,2015,5453,23633,HAL-regions,2015,Middle East/Asia,https://sec.gov/Archives/edgar/data/45012/000004501216000272/hal_12312015-10k.htm,FY2015 10-K. Same figure appears in the investor website tables.
+HAL,2016,4264,15887,HAL-regions,2017,Middle East/Asia,https://ir.halliburton.com/static-files/8c7ec13c-7e1d-44cc-9482-c4695ec8d78a,Halliburton investor website segment and geographic tables
+HAL,2017,4159,20620,HAL-regions,2017,Middle East/Asia,https://ir.halliburton.com/static-files/8c7ec13c-7e1d-44cc-9482-c4695ec8d78a,Halliburton investor website segment and geographic tables
+HAL,2018,4554,23995,HAL-regions,2020,Middle East/Asia,https://www.sec.gov/Archives/edgar/data/45012/000004501221000009/hal-20201231.htm,FY2020 10-K geographic note
+HAL,2019,4875,22408,HAL-regions,2020,Middle East/Asia,https://www.sec.gov/Archives/edgar/data/45012/000004501221000009/hal-20201231.htm,FY2020 10-K geographic note
+HAL,2020,4233,14445,HAL-regions,2020,Middle East/Asia,https://www.sec.gov/Archives/edgar/data/45012/000004501221000009/hal-20201231.htm,FY2020 10-K geographic note
+HAL,2021,3843,15295,HAL-regions,2022,Middle East/Asia,https://www.sec.gov/Archives/edgar/data/45012/000004501223000011/hal-20221231.htm,FY2022 10-K results of operations tables
+HAL,2022,4812,20297,HAL-regions,2022,Middle East/Asia,https://www.sec.gov/Archives/edgar/data/45012/000004501223000011/hal-20221231.htm,FY2022 10-K results of operations tables
+HAL,2023,5678,23018,HAL-regions,2025,Middle East/Asia,https://app.edgar.tools/companies/HAL/disclosures/segments,FY2025 10-K geographic note as shown on edgar.tools
+HAL,2024,6104,22944,HAL-regions,2025,Middle East/Asia,https://app.edgar.tools/companies/HAL/disclosures/segments,FY2025 10-K geographic note as shown on edgar.tools
+HAL,2025,5832,22184,HAL-regions,2025,Middle East/Asia,https://app.edgar.tools/companies/HAL/disclosures/segments,FY2025 10-K geographic note as shown on edgar.tools
+SLB,2008,5724,27163,SLB-FY2010,2010,Middle East & Asia,https://www.sec.gov/Archives/edgar/data/0000087347/000095012311009144/h77795e10vk.htm,FY2010 10-K. Oilfield Services areas only. WesternGeco is not split by area so the share is understated.
+SLB,2009,5234,22702,SLB-FY2010,2010,Middle East & Asia,https://www.sec.gov/Archives/edgar/data/0000087347/000095012311009144/h77795e10vk.htm,FY2010 10-K. Oilfield Services areas only. WesternGeco is not split by area so the share is understated.
+SLB,2010,5586,27447,SLB-FY2010,2010,Middle East & Asia,https://www.sec.gov/Archives/edgar/data/0000087347/000095012311009144/h77795e10vk.htm,FY2010 10-K. Oilfield Services areas only. Leaves out WesternGeco and the Smith businesses bought that year.
+SLB,2009,5961,22702,SLB-FY2011,2011,Middle East & Asia,https://media.corporate-ir.net/media_files/IROL/97/97513/SLB_AR2011/files/assets/basic-html/page81.html,FY2011 annual report segment note
+SLB,2010,6650,27447,SLB-FY2011,2011,Middle East & Asia,https://media.corporate-ir.net/media_files/IROL/97/97513/SLB_AR2011/files/assets/basic-html/page81.html,FY2011 annual report segment note
+SLB,2011,8065,39540,SLB-FY2011,2011,Middle East & Asia,https://media.corporate-ir.net/media_files/IROL/97/97513/SLB_AR2011/files/assets/basic-html/page81.html,FY2011 annual report segment note. Total includes the Distribution business.
+SLB,2011,8102,36959,SLB-FY2012,2012,Middle East & Asia,https://media.corporate-ir.net/media_files/IROL/97/97513/SLB_AR2012/files/assets/basic-html/page76.html,FY2012 annual report segment note. Restated.
+SLB,2012,9194,42149,SLB-FY2012,2012,Middle East & Asia,https://media.corporate-ir.net/media_files/IROL/97/97513/SLB_AR2012/files/assets/basic-html/page76.html,FY2012 annual report segment note
+SLB,2011,7722,36579,SLB-FY2013,2013,Middle East & Asia,https://investorcenter.slb.com/static-files/4345ab49-10ee-446d-ab2c-c2725c8b23e4,FY2013 annual report note 17. Restated.
+SLB,2012,8775,41731,SLB-FY2013,2013,Middle East & Asia,https://investorcenter.slb.com/static-files/4345ab49-10ee-446d-ab2c-c2725c8b23e4,FY2013 annual report note 17. Restated.
+SLB,2013,10810,45266,SLB-FY2013,2013,Middle East & Asia,https://investorcenter.slb.com/static-files/4345ab49-10ee-446d-ab2c-c2725c8b23e4,FY2013 annual report note 17
+SLB,2014,11875,48580,SLB-FY2016,2016,Middle East & Asia,https://investorcenter.slb.com/static-files/9ee22ff6-e6c8-4455-84b7-a372aebaf517,FY2016 annual report note 17
+SLB,2015,9898,35475,SLB-FY2016,2016,Middle East & Asia,https://investorcenter.slb.com/static-files/9ee22ff6-e6c8-4455-84b7-a372aebaf517,FY2016 annual report note 17
+SLB,2016,9286,27810,SLB-FY2016,2016,Middle East & Asia,https://investorcenter.slb.com/static-files/9ee22ff6-e6c8-4455-84b7-a372aebaf517,FY2016 annual report note 17
+SLB,2018,9543,32815,SLB-Q4-2019,2019,Middle East & Asia,https://www.ansa.it/sito/notizie/economia/business_wire/news/2020-01-17_1172063489.html,Business Wire copy of the Q4 2019 earnings release full-year table
+SLB,2019,10017,32917,SLB-Q4-2019,2019,Middle East & Asia,https://www.ansa.it/sito/notizie/economia/business_wire/news/2020-01-17_1172063489.html,Business Wire copy of the Q4 2019 earnings release full-year table
+SLB,2021,8060,22929,SLB-2021-rounded,2025,Middle East & Asia,https://www.marketscreener.com/quote/stock/SLB-N-V-14411/finances-segments/,ROUNDED to the nearest 10 million and taken from a data aggregator. Total is from the Q4 2021 earnings release. Replace with the 10-K figure.
+SLB,2022,9033,28091,SLB-2022on,2024,Middle East & Asia,https://capedge.com/filing/87347/0000950170-25-007638/SLB-10K-2024FY/file/130/data,FY2024 10-K segment note
+SLB,2023,11019,33135,SLB-2022on,2024,Middle East & Asia,https://capedge.com/filing/87347/0000950170-25-007638/SLB-10K-2024FY/file/130/data,FY2024 10-K segment note
+SLB,2024,13026,36289,SLB-2022on,2024,Middle East & Asia,https://capedge.com/filing/87347/0000950170-25-007638/SLB-10K-2024FY/file/130/data,FY2024 10-K segment note
+SLB,2025,12218,35708,SLB-2022on,2025,Middle East & Asia,https://app.edgar.tools/companies/SLB/disclosures/segments,FY2025 10-K segment note as shown on edgar.tools. Total is the sum of the four areas plus 251 of other revenue.
