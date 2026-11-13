@@ -21,7 +21,7 @@ MARKET = "SPY"
 
 # months where the rig count definition changed (see DATA_NOTES.md).
 # momentum windows that cross one of these are dropped
-RIG_BREAKS = ["2024-01"]
+RIG_BREAKS = ["2012-06", "2024-01"]
 DROP_BREAK_WINDOWS = True
 
 # a fiscal year's revenue counts as public from April of the next year
